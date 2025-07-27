@@ -1,0 +1,16 @@
+unsloth @ git+https://github.com/unslothai/unsloth.git@2025.3.9
+torch==2.5.1
+datasets==3.0.1
+pandas==2.2.3
+rouge-score==0.1.2
+bert-score==0.3.13
+numpy==1.26.4
+transformers==4.44.2
+autoawq==0.2.6
+accelerate==1.0.1
+bitsandbytes==0.44.1
+peft==0.13.2
+optuna==4.0.0
+psutil==6.1.0
+wandb==0.18.5
+matplotlib==3.9.2
